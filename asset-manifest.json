@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/algolia_search_demo/static/js/main.e4d5c40b.js",
+    "index.html": "/algolia_search_demo/index.html",
+    "main.e4d5c40b.js.map": "/algolia_search_demo/static/js/main.e4d5c40b.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e4d5c40b.js"
+  ]
+}
