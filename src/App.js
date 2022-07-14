@@ -12,8 +12,8 @@ import {
 } from "react-instantsearch-dom";
 
 const searchClient = algoliasearch(
-  "M8VYFLBKJM",
-  "de67302e56ffb53902d15685a3cf67dd"
+   process.env.REACT_APP_SECRET_KEY,
+   process.env.REACT_APP_ALGOLIA_API_KEY
 );
 
 const SearchBox = ({ currentRefinement, isSearchStalled, refine }) => (
